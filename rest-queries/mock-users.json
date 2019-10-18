@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Jyoti",
+    "lastName": "Ollarenshaw",
+    "email": "jollarenshaw0@wikia.com",
+    "address": "Hallongatan",
+    "city": "Malmö"
+  },
+  {
+    "firstName": "Chaunce",
+    "lastName": "Vatini",
+    "email": "cvatini1@studiopress.com",
+    "address": "Blåbärsgatan",
+    "city": "Malmö"
+  },
+  {
+    "firstName": "Maurine",
+    "lastName": "Gerardet",
+    "email": "mgerardet2@boston.com",
+    "address": "Jordgubbsgatan",
+    "city": "Lund"
+  },
+  {
+    "firstName": "Harri",
+    "lastName": "Denniss",
+    "email": "hdenniss3@twitpic.com",
+    "address": "Melongatan",
+    "city": "Helsingborg"
+  },
+  {
+    "firstName": "Nolie",
+    "lastName": "Fabbri",
+    "email": "nfabbri4@noaa.gov",
+    "address": "Banangatan",
+    "city": "Trelleborg"
+  }
+]
